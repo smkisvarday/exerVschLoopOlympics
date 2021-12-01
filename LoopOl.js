@@ -10,3 +10,8 @@ var fruit = ["banana", "orange", "apple", "kiwi"]
 for (var i = 0; i < fruit.length; i++) {
     console.log (fruit[i]);
 }
+
+var number = [];
+for (var i =0; 1 <10; i++) {
+    number[i] =i;
+}
